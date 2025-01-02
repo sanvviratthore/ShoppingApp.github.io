@@ -14,7 +14,7 @@ Check out the Shopping App live at: [https://sanvviratthore.github.io/ShoppingAp
 
 ## Tech Stack  
 - **Frontend**: Flutter (Dart)  
-- **State Management**: Provider (if applicable)  
+- **State Management**: Provider
 - **Deployment**: GitHub Pages (via Flutter web build)  
 
 ## How to Clone and Run Locally  
